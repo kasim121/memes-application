@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:memes_app/core/error/failure.dart';
-import 'package:memes_app/core/usecases/usecases.dart';
+import 'package:memes_app/core/usecases/get_memes.dart';
 import 'package:memes_app/repositories/meme_repositories.dart';
 
 import '../../domain/entities/memes.dart';
